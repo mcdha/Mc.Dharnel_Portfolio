@@ -80,15 +80,15 @@
   animation: wave 2s infinite; /* Apply the waving animation */
 }
 
-.logo {
+/* .logo {
   position: relative;
   display: inline-block;
   padding: 8px;
   font-weight: bold;
   font-size: large;
   color: #fff;
-  z-index: 1; /* Ensure the logo is above the circle */
-}
+  z-index: 1;
+} */
 
 /* Keep the original styles for .nav-link */
 .nav-link {
