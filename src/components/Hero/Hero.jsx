@@ -145,16 +145,16 @@ const Hero = () => {
               <br />
               <div className="icons-container" style={{display: "flex"}}>
                 <div className="icons" data-aos="slide-up" data-aos-duration="2000">
-                  <a href=""><i className="bi-facebook iconsPadding"></i></a>
+                  <a href="https://www.facebook.com/mcdharnel.pagaragan"><i className="bi-facebook iconsPadding"></i></a>
                 </div>
                 <div className="icons" data-aos="slide-up" data-aos-duration="1500">
-                  <a href=""><i className="bi-google dark iconsPadding"></i></a>
+                  <a href="mailto:mcdharnelpagaragan@gmail.com"><i className="bi-google dark iconsPadding"></i></a>
                 </div>
                 <div className="icons" data-aos="slide-up" data-aos-duration="1000">
-                  <a href=""><i className="bi-twitter white iconsPadding"></i></a>
+                  <a href="https://github.com/mcdha"><i className="bi bi-github white iconsPadding"></i></a>
                 </div>
                 <div className="icons" data-aos="slide-up" data-aos-duration="500">
-                  <a href=""><i className="bi-linkedin dark iconsPadding"></i></a>
+                  <a href="https://www.linkedin.com/in/mc-dharnel-pagaragan-5a9581256/"><i className="bi-linkedin dark iconsPadding"></i></a>
                 </div>
               </div>
 
