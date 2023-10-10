@@ -6,9 +6,45 @@ const Projects = () => {
   return (
     <>
 
-    <section className='ps-3'>
+<section className='ps-3'>
       <h3 data-aos="fade-up-right" data-aos-duration="2000" style={{ color: 'rgba(255, 204, 0, 0.952)' }}>MY PROJECTS</h3>
       <p data-aos="slide-left" data-aos-duration="500" style={{ color: '#E9DCC9' }}>Discover a collection of my projects that showcase my skills as a Full Stack Developer. From user-friendly front-end interfaces to robust back-end systems, each project reflects my commitment to creating functional and engaging digital solutions. Join me on this journey through my work where innovation and code come together.</p>
+        <div data-aos="slide-left" data-aos-duration="500" className="row borderProjects">
+          <div className="col-lg-4 col-md-4 col-12 picturesProject">
+            <div className="workImageBox">
+              <img className='workImage' src="images/work/burgershub.png" alt="" />
+            </div>
+          </div>
+          <div className="col-lg-8 col-md-8 col-12">
+            <p className='' style={{ color: '#E9DCC9' }}> <span className='about'>Welcome to The BurgersHub Project</span> Ongoing . . . . . .</p>
+
+         
+            <div><a href="https://burgershub-git-main-mcdha.vercel.app"><button type="button" className="btn btn-warning btnProjects"><i className="bi bi-eyeglasses pe-2"> </i>
+                View
+            </button></a></div>
+           
+          </div>
+        </div>
+
+        <div className="dev-icons my-4" data-aos="slide-left" data-aos-duration="500">
+              <i className="devicon-html5-plain colored"></i>
+              <i className="devicon-css3-plain colored"></i>
+              <i className="devicon-javascript-plain colored"></i>
+              <i className="devicon-bootstrap-plain colored"></i>
+              {/* <i className="devicon-tailwindcss-plain colored"></i> */}
+              <i className="devicon-react-original colored"></i>
+              {/* <i className="devicon-php-plain colored"></i>
+              <i className="devicon-laravel-plain colored"></i>
+              <i className="devicon-mysql-plain colored"></i>
+              <i className="devicon-firebase-plain colored"></i> */}
+              {/* <i className="devicon-photoshop-plain colored"></i>
+              <i className="devicon-xd-plain colored"></i>
+              <i className="devicon-figma-plain colored"></i> */}
+            </div>
+            <hr className="horizontal-line" />
+    </section>
+
+    <section className='ps-3'>
         <div data-aos="slide-left" data-aos-duration="500" className="row borderProjects">
           <div className="col-lg-4 col-md-4 col-12 picturesProject">
             <div className="workImageBox">
