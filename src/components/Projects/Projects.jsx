@@ -129,7 +129,7 @@ const Projects = () => {
             <p className='' style={{ color: '#E9DCC9' }}> <span className='about'>Welcome to The Music Player Project 🎶</span> Step into a world of rhythm and harmony with our Music Player Project. Crafted with APIs, it's your portal to endless melodies. Tune in, unwind, and let the music guide you. Welcome to a symphony of digital delight.</p>
 
          
-            <div><a href="https://mcdha.github.io/MusicPlayer/"><button type="button" className="btn btn-warning btnProjects"><i className="bi bi-eyeglasses pe-2"> </i>
+            <div><a href=" https://mcdha.github.io/music-player/"><button type="button" className="btn btn-warning btnProjects"><i className="bi bi-eyeglasses pe-2"> </i>
                 View
             </button></a></div>
            
